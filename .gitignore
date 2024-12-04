@@ -1,3 +1,11 @@
+# Virtual Environment
+.venv
+.venv/*
+
+# Added on repositories
+PythonToNSP
+PythonToNSP/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

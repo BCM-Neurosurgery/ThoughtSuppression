@@ -1,0 +1,7 @@
+First Stimulus Phrase
+Second Stimulus Phrase
+Third Stimulus Phrase
+Fourth Stimulus Phrase
+Fifth Stimulus Phrase
+Sixth Stimulus Phrase
+Seventh Stimulus Phrase
